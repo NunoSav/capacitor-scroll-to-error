@@ -1,0 +1,6 @@
+{
+  "appId": "com.neoception.test",
+  "appName": "Test",
+  "bundledWebRuntime": false,
+  "webDir": "dist"
+}

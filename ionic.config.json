@@ -1,0 +1,8 @@
+{
+  "name": "TEST",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "custom"
+}
